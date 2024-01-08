@@ -14,8 +14,8 @@ const Navbar = () => {
           class="navbar navbar-expand-lg navbar-light"
         >
           <div class="container">
-            <Link class="active" aria-current="page" to="/">
-              <a class="navbar-brand" href="/">
+            <Link class="active" aria-current="page" to="/portfolio">
+              <a class="navbar-brand" href="/portfolio">
                 &lt;CS /&gt;
               </a>
             </Link>
@@ -43,7 +43,7 @@ const Navbar = () => {
             <div class={` collapse navbar-collapse ${show ? "show" : ""}`}>
               <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <Link class="nav-link active" aria-current="page" to="/">
+                  <Link class="nav-link active" aria-current="page" to="/portfolio">
                     Home
                   </Link>
                 </li>

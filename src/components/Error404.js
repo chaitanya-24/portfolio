@@ -14,7 +14,7 @@ const Error404 = () => {
             THE PAGE YOU ARE LOOKING FOR MIGHT HAVE BEEN REMOVED HAD ITS NAMED
             CHANGED OR IS TEMPORARILY UNAVAILABLE.
           </p>
-          <NavLink to="/">back to homepage</NavLink>
+          <NavLink to="/portfolio">back to homepage</NavLink>
         </div>
       </div>
     </>
