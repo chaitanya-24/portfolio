@@ -21,7 +21,7 @@ const projectapi = [
     description:
       "The project uses the UCI Wine Quality Dataset, which includes features like ‘fixed acidity’, ‘pH’, and ‘residual sugar’ to train and predict the quality of wine residual sugar’ to train and predict the quality of wine.The project uses MLflow which is used for experiment tracking.",
     link: "https://github.com/chaitanya-24/Wine-Quality-Prediction-with-MLflow",
-    date: "Present",
+    date: "January 2024",
   },
 ];
 

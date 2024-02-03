@@ -11,11 +11,12 @@ const Education = () => {
           <div className="left-side-head col-12 col-lg-6">
             <h1 className="edu-head">Master of Science </h1>
             <h3 className="edu-branch">Computer Science</h3>
-            <h5 style={{color: "black"}}>2022 - 2024</h5>
+            <h5 style={{ color: "black" }}>Aug 2022 - Present</h5>
           </div>
           <div className="right-side-head col-12 col-lg-6">
             <p className="edu-para">
-              Currently pursuing <b>Master of Computer Science</b> from <br /> <b>G N Khalsa College, Mumbai</b>.
+              Currently pursuing <b>Master of Computer Science</b> from <br />{" "}
+              <b>G N Khalsa College, Mumbai</b>.
             </p>
           </div>
         </main>

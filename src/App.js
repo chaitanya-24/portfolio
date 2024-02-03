@@ -5,12 +5,14 @@ import ContactPage from "./pages/ContactPage";
 import Error from "./pages/Error";
 import {Routes, Route} from "react-router-dom";
 import React from "react";
+import ExperiencePage from "./pages/ExperiencePage";
 
 function App() {
   return (
     <>
     <Routes>
       <Route path="/portfolio/" element={<Home />}></Route>
+      <Route path="/experience/" element={<ExperiencePage />}></Route>
       <Route path="/projects" element={<ProjectsPage />}></Route>
       <Route path="/contact" element={<ContactPage />}></Route>
       <Route path="*" element={<Error />}></Route>
