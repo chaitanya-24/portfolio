@@ -14,10 +14,9 @@ const Header = () => {
             data-aos-once="true" className="left-side-head col-12 col-lg-5">
             <h1 className="head-name">Chaitanya Sawant</h1>
             <p className="head-para">
-              A dedicated Master of Computer Science student with a deep passion
-              for AI technologies. I am actively exploring and contributing to
-              the field through hands-on projects in Machine Learning and Data
-              Science. 
+            Aspiring Machine Learning Engineer with hands-on experience in Python, building ML pipelines, model development and deployment. Skilled
+            in solving complex problems and enhancing data-driven decision-making, seeking to contribute to innovative projects in a
+            dynamic team. 
             </p>
 
             <section className="socials">
@@ -32,6 +31,12 @@ const Header = () => {
               </a>
               <a href="https://www.instagram.com/chaitanya42_/" target="_blank" rel="noreferrer">
                 <i class="social-icon fab fa-instagram"></i>
+              </a>
+              <a href="https://medium.com/@chaitanyasawant" target="_blank" rel="noreferrer">
+                <i class="social-icon fab fa-medium"></i>
+              </a><br />
+              <a href="https://drive.google.com/file/d/1U-Y56SElLlvMuEmMer1ezBk94Z0LlWE6/view?usp=sharing" target="_blank" rel="noreferrer" download className="btn" style={{height: "5rem", background: "#fc3e00", fontSize: "2rem", marginTop: "2rem", borderRadius: "1.6rem"}}>
+                Download Resume
               </a>
             </section>
           </section>

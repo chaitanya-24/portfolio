@@ -1,6 +1,6 @@
 import React from "react";
-import { FaDocker, FaGitAlt } from "react-icons/fa"
-import { SiMysql, SiScikitlearn, SiFlask } from "react-icons/si"
+import { FaDocker, FaGitAlt, FaAws } from "react-icons/fa"
+import { SiScikitlearn, SiFlask, SiTensorflow, SiPandas, SiNumpy, SiMlflow } from "react-icons/si"
 import { DiMongodb } from "react-icons/di";
 
 
@@ -21,17 +21,17 @@ const Work = () => {
         <main className="row justify-content-center  tool-section">
           <span
             data-cooltipz-dir="left"
-            aria-label="HTML5"
+            aria-label="NUMPY"
             className="col-4 col-lg-2"
           >
-            <i class="social-icon work-icon fab fa-html5"></i>
+            <i class="social-icon work-icon"><SiNumpy /></i>
           </span>
           <span
             data-cooltipz-dir="left"
-            aria-label="CSS3"
+            aria-label="PANDAS"
             className="col-4 col-lg-2"
           >
-            <i class="social-icon work-icon fab fa-css3"></i>
+            <i class="social-icon work-icon"><SiPandas /></i>
           </span>
           <span
             data-cooltipz-dir="left"
@@ -39,13 +39,13 @@ const Work = () => {
             className="col-4 col-lg-2"
           >
             <i class="social-icon work-icon"><FaDocker style={{height:"40"}} /></i>
-          </span>
+          </span> 
           <span
             data-cooltipz-dir="left"
-            aria-label="JAVASCRIPT"
+            aria-label="MLflow"
             className="col-4 col-lg-2"
           >
-            <i class="social-icon work-icon fab fa-js-square"></i>
+            <i class="social-icon work-icon"><SiMlflow /></i>
           </span>
           <span
             data-cooltipz-dir="left"
@@ -56,17 +56,17 @@ const Work = () => {
           </span>
           <span
             data-cooltipz-dir="left"
-            aria-label="MYSQL"
+            aria-label="TENSORFLOW"
             className="col-4 col-lg-2"
           >
-            <i class="social-icon work-icon"><SiMysql style={{height:"40"}} /></i>
+            <i class="social-icon work-icon"><SiTensorflow style={{height:"40"}} /></i>
           </span>
           <span
             data-cooltipz-dir="left"
-            aria-label="JAVA"
+            aria-label="AWS"
             className="col-4 col-lg-2"
           >
-            <i class="social-icon work-icon fab fa-java"></i>
+            <i class="social-icon work-icon"><FaAws /></i>
           </span>
           <span
             data-cooltipz-dir="left"
