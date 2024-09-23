@@ -35,9 +35,9 @@ const Header = () => {
               <a href="https://medium.com/@chaitanyasawant" target="_blank" rel="noreferrer">
                 <i class="social-icon fab fa-medium"></i>
               </a><br />
-              <a href="https://drive.google.com/file/d/1U-Y56SElLlvMuEmMer1ezBk94Z0LlWE6/view?usp=sharing" target="_blank" rel="noreferrer" download className="btn" style={{height: "5rem", background: "#fc3e00", fontSize: "2rem", marginTop: "2rem", borderRadius: "1.6rem"}}>
+              {/* <a href="https://drive.google.com/file/d/1U-Y56SElLlvMuEmMer1ezBk94Z0LlWE6/view?usp=sharing" target="_blank" rel="noreferrer" download className="btn" style={{height: "5rem", background: "#fc3e00", fontSize: "2rem", marginTop: "2rem", borderRadius: "1.6rem"}}>
                 Download Resume
-              </a>
+              </a> */}
             </section>
           </section>
           <section
