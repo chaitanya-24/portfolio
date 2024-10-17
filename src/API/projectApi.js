@@ -32,6 +32,14 @@ const projectapi = [
   },
   {
     id: 5,
+    name: "SortMyPDF: Automated PDF Organization Tool",
+    description:
+      "PDF Organizer Tool is a Streamlit application that allows users to upload multiple PDF files, extract abstracts, and organize them into clusters based on content. Utilizing machine learning techniques, this tool simplifies document management and retrieval.",
+    link: "https://github.com/chaitanya-24/Automatically-Organizing-PDF",
+    // date: "January 2024",
+  },
+  {
+    id: 6,
     name: "CineMatch: Movie Recommendation Engine",
     description:
       "Built a content-based movie recommendation system that suggests movies based on user preferences, increasing user engagement and enhancing satisfaction ratings",
@@ -42,3 +50,4 @@ const projectapi = [
 ];
 
 export default projectapi;
+
