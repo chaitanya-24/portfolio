@@ -9,16 +9,16 @@ const projectapi = [
   },
   {
     id: 2,
-    name: "AI Conversational Assistant with Flask and LangChain",
+    name: "ChatFlow: AI Conversational Assistant",
     description:
       "An AI-powered RAG chatbot with Flask, LangChain, and ChromaDB for real-time interaction and efficient document management. Utilized large language models for natural language understanding and added conversational memory for personalized user experiences.",
     // date: "Oct 2023",
   },
   {
     id: 3,
-    name: "TextGuard: Hate Speech Classification System",
+    name: "HateWatch: Neural-Powered Content Intelligence Platform",
     description:
-      "This project aims to develop a robust machine learning model using Natural Language Processing (NLP) and Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) to detect and classify hate speech in social media texts.",
+      "This project aims to develop a robust deep learning model using Natural Language Processing (NLP) and Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) to detect and classify hate speech in social media texts.",
     link: "https://github.com/chaitanya-24/Hate_Speech",
     // date: "Oct 2023",
   },

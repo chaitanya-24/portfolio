@@ -38,7 +38,7 @@ const Experience = () => {
           <div className="left-side-head col-12 col-lg-6">
             <h1 className="edu-head">Data Science Intern</h1>
             <h3 className="edu-branch">BCG X</h3>
-            <h5 style={{ color: "black" }}>Oct 2024 – Nov 2024</h5>
+            <h5 style={{ color: "black" }}>Oct 2023 – Nov 2023</h5>
           </div>
           <div className="right-side-head col-12 col-lg-6">
             <p className="edu-para">

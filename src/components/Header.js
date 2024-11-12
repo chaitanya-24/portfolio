@@ -14,8 +14,8 @@ const Header = () => {
             data-aos-once="true" className="left-side-head col-12 col-lg-5">
             <h1 className="head-name">Chaitanya Sawant</h1>
             <p className="head-para">
-            Aspiring Machine Learning Engineer with hands-on experience in Python, building ML pipelines, model development and deployment. Skilled
-            in solving complex problems and enhancing data-driven decision-making, seeking to contribute to innovative projects in a
+            Machine Learning Engineer with hands-on experience in Python, building ML pipelines, model development and deployment. Skilled
+            in solving problems and enhancing data-driven decision-making, seeking to contribute to innovative projects in a
             dynamic team. 
             </p>
 
