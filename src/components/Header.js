@@ -14,9 +14,7 @@ const Header = () => {
             data-aos-once="true" className="left-side-head col-12 col-lg-5">
             <h1 className="head-name">Chaitanya Sawant</h1>
             <p className="head-para">
-            Machine Learning Engineer with hands-on experience in Python, building ML pipelines, model development and deployment. Skilled
-            in solving problems and enhancing data-driven decision-making, seeking to contribute to innovative projects in a
-            dynamic team. 
+              Machine Learning Engineer with expertise in developing and deploying scalable AI solutions, fine-tuning large language models, and building ML pipelines. Passionate about leveraging AI to solve complex challenges and drive innovation in collaborative environments. 
             </p>
 
             <section className="socials">
@@ -29,9 +27,9 @@ const Header = () => {
               <a href="https://github.com/chaitanya-24" target="_blank" rel="noreferrer">
                 <i class="social-icon fab fa-github"></i>
               </a>
-              <a href="https://www.instagram.com/chaitanya42_/" target="_blank" rel="noreferrer">
+              {/* <a href="https://www.instagram.com/chaitanya42_/" target="_blank" rel="noreferrer">
                 <i class="social-icon fab fa-instagram"></i>
-              </a>
+              </a> */}
               <a href="https://medium.com/@chaitanyasawant" target="_blank" rel="noreferrer">
                 <i class="social-icon fab fa-medium"></i>
               </a><br />

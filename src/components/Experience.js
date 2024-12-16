@@ -29,7 +29,7 @@ const Experience = () => {
                 </li>
                 {/* <br /> */}
                 <li>
-                  Designed and implemented a scalable machine learning pipeline, encompassing data preprocessing, feature engineering, model training, and evaluation, which improved deployment efficiency by 40% over previous methodologies.
+                  Implemented a scalable machine learning pipeline, encompassing data preprocessing, feature engineering, model training, and evaluation, which improved deployment efficiency by 40% over previous methodologies.
                 </li>
               </ul>
             </p>
